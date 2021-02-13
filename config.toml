@@ -1,4 +1,4 @@
-baseURL = "http://blog-hugo-belajar.github.io"
+baseURL = "https://SUPRAX125.gitlab.io/blog-hugo-belajar/"
 languageCode = "en-us"
 title = "Bootcamp DumbWays"
 theme = "beautifulhugo"
